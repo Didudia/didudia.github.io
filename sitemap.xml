@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.didudia.xyz/posts/c0155143.html</loc>
+    <loc>https://www.didudia.xyz/posts/2e99af31.html</loc>
     
     <lastmod>2021-03-30</lastmod>
     
@@ -11,7 +11,7 @@
   <url>
     <loc>https://www.didudia.xyz/posts/52d64983.html</loc>
     
-    <lastmod>2021-03-08</lastmod>
+    <lastmod>2021-03-30</lastmod>
     
   </url>
   
@@ -39,6 +39,13 @@
   </url>
   
   <url>
+    <loc>https://www.didudia.xyz/tags/icarus/</loc>
+    <lastmod>2021-03-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.didudia.xyz/tags/magento/</loc>
     <lastmod>2021-03-30</lastmod>
     <changefreq>daily</changefreq>
@@ -59,24 +66,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.didudia.xyz/tags/icarus/</loc>
-    <lastmod>2021-03-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://www.didudia.xyz/categories/Nginx/</loc>
+    <loc>https://www.didudia.xyz/categories/hexo/</loc>
     <lastmod>2021-03-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.didudia.xyz/categories/hexo/</loc>
+    <loc>https://www.didudia.xyz/categories/Nginx/</loc>
     <lastmod>2021-03-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
